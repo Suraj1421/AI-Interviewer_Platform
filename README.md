@@ -294,17 +294,7 @@ npm run build
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📧 Support
 
-For support, email your-email@example.com or open an issue on the repository.
 
-## 🎓 Acknowledgments
 
-- OpenRouter for AI capabilities
-- Razorpay for payment processing
-- Firebase for authentication
-- Vite for fast development experience
 
----
-
-**Last Updated**: March 2026
